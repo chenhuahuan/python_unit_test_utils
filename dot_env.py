@@ -54,4 +54,10 @@ def load_dot_env_file(dot_env_path):
 
 
 
+# load_dot_env_file("test/test.env")
+# print(os.environ.get("aaa", None))
+# print(os.environ["PROJECT_KEY"])
+# print(os.environ["aaa"])
+# print(os.environ["PROJECT_KEY"])
+
 
